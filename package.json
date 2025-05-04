@@ -1,0 +1,15 @@
+{
+  "name": "basvuru-bot-code-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moon Offical",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "croxydb": "^0.0.26",
+    "discord.js": "^14.19.3"
+  }
+}
